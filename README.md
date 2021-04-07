@@ -1,6 +1,5 @@
 # haedal_whales
 
-
-## learn to python!
+> learn to python!
 
 **haedal_BootCamp**
